@@ -25,9 +25,9 @@ Remember Flume?   Me neither.   Let's try to do these things in Apache NiFi.
 
 ## Flows
 
-![Example NiFi Flow](https://raw.githubusercontent.com/tspannhw/flume-to-nifi/master/HTTPtoKafka.png)
+![Example NiFi Flow](https://raw.githubusercontent.com/tspannhw/flume-to-nifi/main/HTTPtoKafka.png)
 
-![Kafka](https://raw.githubusercontent.com/tspannhw/flume-to-nifi/master/KafkaToParquet.png)
+![Kafka](https://raw.githubusercontent.com/tspannhw/flume-to-nifi/main/KafkaToParquet.png)
 
 
 ## Log Files to HDFS
